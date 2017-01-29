@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">لمار</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Flats">الشقق</string>
+    <string name="Gaza">غزة</string>
+    <string name="Building">البنيات</string>
+    <string name="Lands">الاراضي</string>
+    <string name="Shops">المحلات</string>
+    <string name="Rafah">رفح</string>
+    <string name="North_Gaza">شمال غزة</string>
+    <string name="Middle_Gaza">وسط قطاع غزة</string>
+    <string name="Khan_Yunis">خانيونس</string>
+    <string name="rss">ار اس اس </string>
+ 
+</resources>

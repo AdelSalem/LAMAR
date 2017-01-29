@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/backgraund" >
+
+   
+
+    
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/Flats"
+            android:background="@drawable/buttom_4-1" 
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+             android:text="@string/Building" 
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+             android:text="@string/Lands" 
+                android:textAppearance="?android:attr/textAppearanceLarge"
+             />
+            
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+             android:text="@string/Shops" 
+                android:textAppearance="?android:attr/textAppearanceLarge"
+             />
+
+        </LinearLayout>
+
+    </LinearLayout>

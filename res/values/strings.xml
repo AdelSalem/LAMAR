@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LAMAR</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Flats">Flats</string>
+    <string name="Gaza">Gaza</string>
+    <string name="Building">Building</string>
+    <string name="Lands">Lands</string>
+    <string name="Shops">Shops</string>
+    <string name="North_Gaza">North Gaza</string>
+    <string name="Middle_Gaza">Middle Gaza</string>
+    <string name="Khan_Yunis">Khan Yunis</string>
+    <string name="Rafah">Rafah</string>
+    <string name="rss">RSS</string>
+
+</resources>
